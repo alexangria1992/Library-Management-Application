@@ -120,9 +120,6 @@ section {
     height: 750px;
     width: 2135px;
     background-color: grey;
-    background-image: url("images/1.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
 }
 
 footer {
@@ -138,7 +135,7 @@ footer {
 }
 
 .logo img{
-
+    
     padding-left: 80px;
 
 }
@@ -148,8 +145,8 @@ li a {
     color: white;
     text-decoration: none;
 }
-
-/* nav {
+/* 
+nav {
     float: right;
     word-spacing: 30px;
     padding: 20px;
@@ -163,11 +160,13 @@ nav li {
 } */
 
 section .sec_img {
+    height: 750px;
     margin-top: 0px;
     background-image: url("images/1.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-
+    padding-top: 50px;
+    
 }
 
 .box{
@@ -177,28 +176,39 @@ section .sec_img {
     margin: 70px auto;
     opacity: 0.8;
     color: white;
-} 
-
-/* Login---------------------------*/
-
-.box1 {
-   height: 400px;
-   width: 450px;
-   background-color: black;
-   margin: 70px auto;
-   opacity: .7;
-   color: white;
-   padding: 20px;
-
-
 }
+
 .log_img{
-    height: 750px;
+    height: 950px;
     margin-top: 0px;
     background-image: url("images/3.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-} 
+}
+
+.box1{
+    height: 450px;
+    width: 450px;
+    background-color: black;
+    margin: 70px auto;
+    opacity: .7;
+    color: white;
+    padding: 20px;
+}
+form.login{
+    margin: 70px auto;
+
+
+
+}
+input {
+    height: 25px;
+    width: 300px;
+
+
+}
+
+/*--------------------------Registration---------------*/
 
 .reg_img{
     height: 950px;
@@ -216,9 +226,8 @@ section .sec_img {
     opacity: .7;
     color: white;
     padding: 20px;
-
 }
 
 form [name="Registration"] {
     margin: auto 50px;
-} 
+}

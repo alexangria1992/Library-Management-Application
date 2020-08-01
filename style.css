@@ -201,3 +201,11 @@ section .sec_img {
 
 }
 
+.log_img {
+    height: 850px;
+    margin-top: 0px;
+    background-image: url(images/3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
