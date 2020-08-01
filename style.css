@@ -160,20 +160,23 @@ nav li {
 }
 
 section .sec_img {
-    height: 750px;
     margin-top: 0px;
     background-image: url("images/1.jpg");
     background-repeat: no-repeat;
+    background-size: cover;
     margin: 70px auto;
     opacity: 0.8;
     color: white;
-}
-.box{
-    height: 300px;
+
+} 
+
+ .box{
+    height: 100px;
     width: 450px;
     background-color: #030002;
     margin: 70px auto;
     opacity: 0.8;
     color: white;
+    background-color: red;
 } 
 

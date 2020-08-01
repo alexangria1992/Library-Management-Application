@@ -120,6 +120,9 @@ section {
     height: 750px;
     width: 2135px;
     background-color: grey;
+    background-image: url("images/1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 footer {
@@ -146,7 +149,7 @@ li a {
     text-decoration: none;
 }
 
-nav {
+/* nav {
     float: right;
     word-spacing: 30px;
     padding: 20px;
@@ -157,7 +160,7 @@ nav li {
     display: inline-block;
     line-height: 80px;
 
-}
+} */
 
 section .sec_img {
     margin-top: 0px;
@@ -176,10 +179,45 @@ section .sec_img {
     color: white;
 } 
 
+/* Login---------------------------*/
+
+.box1 {
+   height: 400px;
+   width: 450px;
+   background-color: black;
+   margin: 70px auto;
+   opacity: .7;
+   color: white;
+   padding: 20px;
+
+
+}
 .log_img{
     height: 750px;
     margin-top: 0px;
     background-image: url("images/3.jpg");
     background-repeat: no-repeat;
     background-size: cover;
+} 
+
+.reg_img{
+    height: 950px;
+    margin-top: 0px;
+    background-image: url("images/4.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.box2{
+    height: 589px;
+    width: 400px;
+    background-color: black;
+    margin: 0px auto;
+    opacity: .7;
+    color: white;
+    padding: 20px;
+}
+
+form [name="Registration"] {
+    margin: auto 50px;
 } 
