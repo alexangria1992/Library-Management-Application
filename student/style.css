@@ -216,6 +216,7 @@ section .sec_img {
     opacity: .7;
     color: white;
     padding: 20px;
+
 }
 
 form [name="Registration"] {
