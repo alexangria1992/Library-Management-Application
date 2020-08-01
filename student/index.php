@@ -17,9 +17,9 @@
 
             <nav>
                 <ul>
-                    <li><a href="">HOME</a></li>
+                <li><a href="index.php">HOME</a></li>
                     <li><a href="">BOOKS</a></li>
-                    <li><a href="">STUDNET-LOGIN</a></li>
+                    <li><a href="student_login.php">STUDENT-LOGIN</a></li>
                     <li><a href="">ADMIN_LOGIN</a></li>
                     <li><a href="">FEEDBACK</a></li>
 
@@ -27,6 +27,7 @@
             </nav>
         </header>
     <section>
+    <div class="sec_img">
         <br><br><br>
             <div class="box">
                 <br><br><br><br>
@@ -34,9 +35,14 @@
                 <h1 style="text-align: center;font-size: 25px;">Opens at 09:00</h1><br>
                 <h1 style="text-align: center;font-size: 25px;">Closes at 15:00</h1><br>
             </div>
+        </div>  
     </section>
     <footer>
-
+    <p style="color: white; text-align: center;">
+            <br><br>
+              Email: &nbsb Online.library@gmail.com <br><br>
+              Mobile: &nbsp +880171****
+          </p>
     </footer>
 </div>
 </body>

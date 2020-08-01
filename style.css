@@ -159,14 +159,15 @@ nav li {
 
 }
 
-section {
+section .sec_img {
+    height: 750px;
     margin-top: 0px;
     background-image: url("images/1.jpg");
     background-repeat: no-repeat;
-    background-size: cover;
-
+    margin: 70px auto;
+    opacity: 0.8;
+    color: white;
 }
-
 .box{
     height: 300px;
     width: 450px;
@@ -175,3 +176,4 @@ section {
     opacity: 0.8;
     color: white;
 } 
+
