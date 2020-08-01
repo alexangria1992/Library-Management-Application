@@ -32,7 +32,7 @@
                     <li><a href="books.php">BOOKS</a></li>
                     <li><a href="student_login.php">STUDENT-LOGIN</a></li>
                     <li><a href="">ADMIN_LOGIN</a></li>
-                    <li><a href="">FEEDBACK</a></li>
+                    <li><a href="feedback.php">FEEDBACK</a></li>
 
                 </ul>
             </nav>
