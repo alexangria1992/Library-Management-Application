@@ -51,7 +51,7 @@
                            <ul>
                                 <li><a href="index.php">HOME</a></li>
                                 <li><a href="books.php">BOOKS</a></li>
-                                <li><a href="student_login.php">STUDENT-LOGIN</a></li>
+                                <li><a href="admin_login.php">LOGIN</a></li>
                                 <li><a href="feedback.php">FEEDBACK</a></li>
 
                             </ul>
